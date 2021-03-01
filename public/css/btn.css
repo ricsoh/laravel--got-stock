@@ -1,0 +1,31 @@
+.btnEdit
+{
+    font-size: 30px;
+    background-color:transparent;
+    color: blue;
+    border:none;
+}
+
+.btnDelete
+{
+    font-size: 30px;
+    background-color:transparent;
+    color:red;
+    border:none;
+}
+
+.btnCreate
+{
+    font-size: 30px;
+    background-color:transparent;
+    color:green;
+    border:none;
+}
+
+.btnArrow
+{
+    font-size: 20px;
+    background-color:transparent;
+    color:white;
+    border:none;
+}
